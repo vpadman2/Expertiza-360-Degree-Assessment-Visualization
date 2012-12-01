@@ -1,0 +1,48 @@
+<div>
+  <h1> <%= @course.name %> Dashboard </h1>
+  <table class="listing" cellpadding=2 border:1px >
+      <tr>
+          <th>Assignment</th>
+          <th>Grade Distribution</th>
+          <th>Review Progress</th>
+          <th>Review Progress By Date</th>
+          <th>Total Reviews Assigned</th>
+          <th>Total Reviews Completed</th>
+          <th>Total Review Size<br/> in B</th>
+          <th>Total Submissions</th>
+          <th>PR</th>
+          <th>FR</th>
+          <th>TMR</th>
+          <th>MR</th>
+          <th>TR</th>
+      </tr>
+    <% @assignments.each do |assignment| %>
+      <tr class="listingRow" align="justify">
+        <td align="center">
+          <%= link_to assignment.name, :action => 'one_assignment_all_students', :assignment_id => assignment.id%>
+        </td>
+        <td align="center"><%= assignment.get_average_score().to_s + "%" %>
+        <img src="<%= @assignment_distribution[assignment] %>" ></td>
+        <td align="center"> <img src="<%= @assignment_pie_charts[assignment] %>" > </td>
+        <td align="center"> <img src="<%= @assignment_bar_charts[assignment] %>" > </td>
+        <td align="center"><%= @num_reviews_assigned[assignment] %></td>
+        <td align="center"><%= @num_reviews[assignment] %></td>
+        <td align="center"><%= @total_review_size[assignment] %></td>
+        <td align="center"><%= @total_submissions[assignment] %></td>
+        <% @ALL_REVIEW_TYPES.each do |type| %>
+        <td align="center"><%= @reviews_by_type[assignment][type] %></td>
+        <% end %>
+      </tr>
+    <% end %>
+  </table>
+  <br>
+  <h3>Consolidated Review Progress of all assignments</h3>
+  <br>
+  <img src="<%= @consolidated_graph_url %>" >
+  <br>
+  <%= link_to 'See Statistics', :action => 'one_course_statistics', :course_id => @course.id %>
+  <br>
+  <div style="margin-top: 25px;">
+    <%= link_to 'Back to All Courses', :action => 'index' %>
+  </div>
+</div>
