@@ -8,7 +8,7 @@
           <th>Review Progress By Date</th>
           <th>Total Reviews Assigned</th>
           <th>Total Reviews Completed</th>
-          <th>Total Review Size<br/> in B</th>
+          <th>Total Review Size<br/> in KB</th>
           <th>Total Submissions</th>
           <th>PR</th>
           <th>FR</th>
@@ -27,7 +27,7 @@
         <td align="center"> <img src="<%= @assignment_bar_charts[assignment] %>" > </td>
         <td align="center"><%= @num_reviews_assigned[assignment] %></td>
         <td align="center"><%= @num_reviews[assignment] %></td>
-        <td align="center"><%= @total_review_size[assignment] %></td>
+        <td align="center"><%= (@total_review_size[assignment]/1024) %></td>
         <td align="center"><%= @total_submissions[assignment] %></td>
         <% @ALL_REVIEW_TYPES.each do |type| %>
         <td align="center"><%= @reviews_by_type[assignment][type] %></td>

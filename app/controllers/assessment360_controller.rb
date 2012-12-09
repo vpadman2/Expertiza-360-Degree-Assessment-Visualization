@@ -51,6 +51,7 @@ class Assessment360Controller < ApplicationController
     @consolidated_graph_url = ""
     @progress = Hash.new{|h, k| h[k] = []}
     assignment_index=0
+    max_of_all = 0
     @assignments.each do |assignment|
       # Pie Chart Data .....................................
       reviewed = assignment.get_percentage_reviews_completed()
@@ -82,17 +83,22 @@ class Assessment360Controller < ApplicationController
       bar_2_data = Array.new
       dates = Array.new
       date = assignment.created_at.to_datetime.to_date
-      p date
+      #p date
       day_index = 0
       loop_count = 0
       reviews_done = 0
-      p Date.today
+      #p Date.today
+      max1 = 0
       while ((date <=> Date.today) <= 0)
-        if assignment.get_total_reviews_completed_by_date(date) != 0 then
-          reviews_done += assignment.get_total_reviews_completed_by_date(date)
+        reviews_done_on_date = assignment.get_total_reviews_completed_by_date(date)
 
-          @review_progress[assignment].push(assignment.get_total_reviews_completed_by_date(date))
-          @progress[assignment_index].push(assignment.get_total_reviews_completed_by_date(date))
+        if reviews_done_on_date != 0 then
+          reviews_done += reviews_done_on_date
+          if reviews_done_on_date > max1
+            max1 = reviews_done_on_date
+          end
+          @review_progress[assignment].push(reviews_done_on_date)
+          @progress[assignment_index].push(reviews_done_on_date)
           dates.push(date.month.to_s + "-" + date.day.to_s)
           @num_review_day[day_index] = (day_index+1).to_s
           day_index += 1
@@ -102,14 +108,17 @@ class Assessment360Controller < ApplicationController
         date = (date.to_datetime.advance(:days => 1)).to_date
       end
 
+      if max_of_all < max1
+        max_of_all = max1
+      end
       color_1 = 'c53711'
       color_2 = '000000'
       min=0
-      max= assignment.get_total_reviews_assigned
+      #max= assignment.get_total_reviews_assigned
 
       GoogleChart::BarChart.new("350x80", " ", :vertical, false) do |bc|
         bc.data "Review", @review_progress[assignment], color_1
-        bc.axis :y, :positions => [min, max], :range => [min,max]
+        bc.axis :y, :positions => [min, max1], :range => [min,max1]
         bc.axis :x, :labels => @num_review_day
         bc.width_spacing_options :bar_width => 5, :bar_spacing => 2, :group_spacing => 10
         bc.show_legend = false
@@ -147,7 +156,7 @@ class Assessment360Controller < ApplicationController
     max=200
     count=1
 
-    GoogleChart::BarChart.new("800x200", " ", :vertical, false) do |bc|
+    GoogleChart::BarChart.new("900x200", " ", :vertical, false) do |bc|
       #@review_progress.each do |assignment_progress|
         #bc.data "Assignment" , assignment_progress, color_2
         #count += 1
@@ -155,13 +164,14 @@ class Assessment360Controller < ApplicationController
 
       i =0
       while i < assignment_index
-        bc.data "Assignment" , @progress[i], color_2[i]
+        bc.data "Assignment "+(i+1).to_s , @progress[i], color_2[i]
         i += 1
       end
 
       #bc.data "Assignment", @progress[0], color_2
-      bc.axis :y, :positions => [min, max], :range => [min,max]
+      bc.axis :y, :positions => [min, max_of_all], :range => [min,max_of_all]
       bc.axis :x, :labels => @num_review_day
+      bc.width_spacing_options :bar_width => 5, :group_spacing => 2
       #bc.show_legend = false
       #bc.stacked = false
       #bc.data_encoding = :extended

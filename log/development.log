@@ -4362,3 +4362,2192 @@ Authorised? true
 Rendering template within layouts/application
 Rendering assessment360/one_course_all_assignments
 Completed in 25274ms (View: 157, DB: 226) | 200 OK [http://localhost/assessment360/one_course_all_assignments?course_id=92]
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+Migrating to InitializeGoldberg (1)
+Migrating to InitializeCustom (2)
+Migrating to CreateGoldbergUsers (3)
+Migrating to CreateUsers (4)
+Migrating to CreateDeadlineRights (5)
+Migrating to CreateDeadlineTypes (6)
+Migrating to CreateLatePolicies (7)
+Migrating to CreateWikiTypes (8)
+Migrating to CreateQuestionnaireTypes (9)
+Migrating to CreateMappingStrategies (10)
+Migrating to CreateReviewStrategies (11)
+Migrating to CreateCourses (12)
+Migrating to CreateCoursesUsers (13)
+Migrating to CreateQuestionnaires (14)
+Migrating to CreateQuestions (15)
+Migrating to CreateQuestionAdvices (16)
+Migrating to CreateAssignments (17)
+Migrating to CreateTeams (18)
+Migrating to CreateTeamsUsers (19)
+Migrating to CreateReviewMappings (20)
+Migrating to CreateReviews (21)
+Migrating to CreateReviewOfReviewMappings (22)
+Migrating to CreateSurveyResponses (23)
+Migrating to CreateReviewFeedbacks (24)
+Migrating to CreateAssignmentsQuestionnaires (25)
+Migrating to CreateReviewScores (26)
+Migrating to CreateReviewOfReviews (27)
+Migrating to CreateReviewOfReviewScores (28)
+Migrating to CreateParticipants (29)
+Migrating to CreateResubmissionTimes (30)
+Migrating to CreateDueDates (31)
+Migrating to AuthorFeedback (32)
+Migrating to DueDateRounds (33)
+Migrating to CreateSurveyDeployments (34)
+Migrating to AddSurveyDeployment (35)
+Migrating to CreateSurveyParticipants (36)
+Migrating to CreateTaMappings (37)
+Migrating to UpdateReviewMappings (38)
+Migrating to UpdateReviewScores (39)
+Migrating to UpdateReviewFeedbacks (40)
+Migrating to DowncasePermissions (41)
+Migrating to CreateInvitationTable (42)
+Migrating to UpdateReviewOfReviewMappings (43)
+Migrating to MenuUpdateUsers (44)
+Migrating to MenuUpdateImpersonate (45)
+Migrating to MenuUpdateImportFile (46)
+Migrating to MenuUpdateReviewMapping (47)
+Migrating to MenuUpdateGrades (48)
+Migrating to MenuUpdateCourseEvaluation (49)
+Migrating to MenuUpdateTeamList (50)
+Migrating to MenuUpdateParticipantChoices (51)
+Migrating to UpdateParticipants (52)
+Migrating to CreateNodes (53)
+Migrating to CreateTreeFolders (54)
+Migrating to CreateFolderNodes (55)
+Migrating to CreateQuestionnaireTypeNodes (56)
+Migrating to CreateQuestionnaireNodes (57)
+Migrating to CreateAssignmentNodes (58)
+Migrating to CreateCourseNodes (59)
+Migrating to MenuUpdateTreeDisplay (60)
+Migrating to ControllerUpdateCoursesUsers (61)
+Migrating to UpdateCourses (62)
+Migrating to CreateTaRole (63)
+Migrating to UpdateTeamsForCourse (64)
+Migrating to CreateTeamNodes (65)
+Migrating to CreateTeamUserNodes (66)
+Migrating to UpdateParticipantTypes (67)
+Migrating to CreateComments (68)
+Migrating to MoveFiles (69)
+Migrating to CreatePeerReviews (70)
+Migrating to CreatePeerReviewScores (71)
+Migrating to AddUnknownControllers (72)
+Migrating to RemoveMissingControllers (73)
+Migrating to UpdateAssignmentsForInvitations (74)
+Migrating to ControllerUpdatePasswords (75)
+Migrating to UpdateMenus (76)
+Migrating to Repl0ValsInAuthFb (77)
+Migrating to RenamePeerReviewQuestionnaireIdToTeammateQuestionnaireIdInAssignments (78)
+Migrating to RenamePeerReviews (79)
+Migrating to CorrectQuestionnaireTypeInReviewScores (80)
+Migrating to CreateScores (81)
+Migrating to AddNewQuestionnaireTypes (82)
+Migrating to RelocateToScoresTable (83)
+Migrating to AddNewMappingStrategy (84)
+Migrating to UpdateControllersTeammateReview (85)
+Migrating to CreateNotifications (86)
+Migrating to CreateQuestionnaireWeights (87)
+Migrating to UpdateCustom (88)
+Migrating to AddHandleToUsers (89)
+Migrating to AddHandleToParticipants (90)
+Migrating to AddTimeStampToFeedback (91)
+Migrating to AddChangeHandleAction (92)
+Migrating to AddReviewerIdToReviewOfReviewMappings (93)
+Migrating to RemoveFieldsFromFeedback (94)
+Migrating to RemoveAdditionalFeedback (95)
+Migrating to CreateTeammateReviewMappings (96)
+Migrating to CreateFeedbackMappings (97)
+Migrating to StandardizeReviewOfReview (98)
+Migrating to StandardizeReviewOfReviewMappings (99)
+Migrating to UpdateControllersStudentTask (100)
+Migrating to StandardizeReviews (101)
+Migrating to StandardizeReviewMappings (102)
+Migrating to UpdateQuestionnaireMenus (103)
+Migrating to UpdateRubricTypes (104)
+Migrating to UpdateControllersPublishing (105)
+Migrating to UpdateControllerForExport (106)
+Migrating to MergeQuestionnaireAndType (107)
+Migrating to CreateQuestionnaireFolderNodes (108)
+Migrating to CleanupAssignmentIndices (109)
+Migrating to CreateAssignmentQuestionnaires (110)
+Migrating to AddActionGradesViewMyScores (111)
+Migrating to CreateResponseMaps (112)
+Migrating to CleanUpQuestionnaires (113)
+Migrating to UpdateControllersForResponse (114)
+Migrating to CreateScoreCaches (115)
+Migrating to CreateSignUpTopics (116)
+Migrating to CreateSignedUpUsers (117)
+Migrating to UpdateAssignments (118)
+Migrating to CreateTopicDependencies (119)
+Migrating to SetPermissionsForSignupSheet (120)
+Migrating to CreateSuggestions (121)
+Migrating to CreateSuggestionComments (122)
+Migrating to AddColumnAllowSuggestionsToAssignments (123)
+Migrating to SetPermissionForSuggestion (124)
+Migrating to AddFlagThreToDueDates (125)
+Migrating to UpdateCache (126)
+Migrating to AddLeaderboardPrivacyToUser (127)
+Migrating to CreateLeaderboards (128)
+Migrating to MenuUpdateLeaderboard (129)
+Migrating to AddPopupPermission (130)
+Migrating to RenameFieldsInAssignments (131)
+Migrating to UpdateFieldsInSignUpTopics (132)
+Migrating to AddTopicIdToParticipants (133)
+Migrating to CreateTopicDeadlines (134)
+Migrating to CreateSessions (135)
+Migrating to UpdateMenuImpersonateRevert (20100920141223)
+Migrating to UpdateMenuDeleteObject (20101001183244)
+Migrating to DigitalSignature (20101018010541)
+Migrating to SetPermissionForUserKeys (20101018010542)
+Migrating to AddPotentialResponseDeadlineToResponseMaps (20101116184601)
+Migrating to AddDynamicReviewFieldsToAssignments (20101116184602)
+Migrating to PermissionForAddDynamicReviewerAction (20101117031216)
+Migrating to AddPersistenceTokenToUser (20101128192024)
+Migrating to AddSelfSelectedReviewFields (20101205034327)
+Migrating to UpdateReviewFields (20101214034327)
+Migrating to AddNotificationAcceptedToResponseMap (20101222143748)
+Migrating to SubmitMultipleHyperlinks (20110205220301)
+Migrating to RemoveDynamicReviewerAssignmentsEnabledFromAssignments (20110210160753)
+Migrating to RemoveTopicFromParticipants (20110304054311)
+Migrating to DropReviewAndMappingStrategies (20110323134426)
+Migrating to PermissionForReviewMapping (20110324001445)
+Migrating to PermissionForMetareviewAssignment (20110407154154)
+Migrating to CreateDropDueDate (20110408190423)
+Migrating to TopicReviewThreshold (20110410232719)
+Migrating to RenameDropTopic (20110512155258)
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+
+
+Processing ContentPagesController#view_default (for 127.0.0.1 at 2012-12-08 21:51:15) [GET]
+  Parameters: {"action"=>"view_default", "controller"=>"content_pages"}
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view_default
+Completed in 906ms (View: 141, DB: 94) | 200 OK [http://127.0.0.1/]
+
+
+Processing AuthController#login (for 127.0.0.1 at 2012-12-08 21:51:31) [POST]
+  Parameters: {"commit"=>"Login", "action"=>"login", "authenticity_token"=>"OadbOFcFzaUoUzKFOMrRb0bvs2kWk4pKs4PUV5t9OT4=", "controller"=>"auth", "login"=>{"name"=>"admin", "password"=>"[FILTERED]"}}
+(Role still current)
+Action: authorised
+Authorised? true
+User admin successfully logged in
+Logging in user as role Credentials
+Redirected to http://127.0.0.1:3000/tree_display/drill
+Completed in 312ms (DB: 125) | 302 Found [http://127.0.0.1/auth/login]
+
+
+Processing TreeDisplayController#drill (for 127.0.0.1 at 2012-12-08 21:51:31) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://127.0.0.1:3000/tree_display/list
+Completed in 266ms (DB: 31) | 302 Found [http://127.0.0.1/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 127.0.0.1 at 2012-12-08 21:51:31) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 5625ms (View: 4688, DB: 406) | 200 OK [http://127.0.0.1/tree_display/list]
+
+
+Processing AuthController#logout (for 127.0.0.1 at 2012-12-08 21:54:26) [POST]
+  Parameters: {"commit"=>"Logout", "action"=>"logout", "authenticity_token"=>"OadbOFcFzaUoUzKFOMrRb0bvs2kWk4pKs4PUV5t9OT4=", "controller"=>"auth"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://127.0.0.1:3000/
+Completed in 109ms (DB: 47) | 302 Found [http://127.0.0.1/auth/logout]
+
+
+Processing ContentPagesController#view_default (for 127.0.0.1 at 2012-12-08 21:54:27) [GET]
+  Parameters: {"action"=>"view_default", "controller"=>"content_pages"}
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view_default
+Completed in 188ms (View: 31, DB: 62) | 200 OK [http://127.0.0.1/]
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+
+
+Processing ContentPagesController#view_default (for 24.136.140.59 at 2012-12-08 21:56:31) [GET]
+  Parameters: {"action"=>"view_default", "controller"=>"content_pages"}
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view_default
+Completed in 750ms (View: 109, DB: 62) | 200 OK [http://152.46.16.159/]
+
+
+Processing AuthController#login (for 24.136.140.59 at 2012-12-08 21:56:44) [POST]
+  Parameters: {"commit"=>"Login", "action"=>"login", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"auth", "login"=>{"name"=>"admin", "password"=>"[FILTERED]"}}
+(Role still current)
+Action: authorised
+Authorised? true
+User admin successfully logged in
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/tree_display/drill
+Completed in 219ms (DB: 47) | 302 Found [http://152.46.16.159/auth/login]
+
+
+Processing TreeDisplayController#drill (for 24.136.140.59 at 2012-12-08 21:56:44) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 266ms (DB: 47) | 302 Found [http://152.46.16.159/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 21:56:45) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 5469ms (View: 4641, DB: 422) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 21:57:06) [POST]
+  Parameters: {"action"=>"list", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "display"=>{"sortvar"=>"created_at", "sortorder"=>"desc", "check"=>"1"}, "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 20531ms (View: 18859, DB: 1531) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 21:57:27) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"3"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Authorised? false
+Redirected to http://152.46.16.159:3000/denied
+Filter chain halted as [:goldberg_security_filter] rendered_or_redirected.
+Completed in 188ms (DB: 47) | 302 Found [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=3]
+
+
+Processing ContentPagesController#view (for 24.136.140.59 at 2012-12-08 21:57:27) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["denied"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 219ms (View: 47, DB: 47) | 200 OK [http://152.46.16.159/denied]
+
+
+Processing AuthController#logout (for 24.136.140.59 at 2012-12-08 21:57:35) [POST]
+  Parameters: {"commit"=>"Logout", "action"=>"logout", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"auth"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/
+Completed in 125ms (DB: 16) | 302 Found [http://152.46.16.159/auth/logout]
+
+
+Processing ContentPagesController#view_default (for 24.136.140.59 at 2012-12-08 21:57:36) [GET]
+  Parameters: {"action"=>"view_default", "controller"=>"content_pages"}
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view_default
+Completed in 156ms (View: 16, DB: 31) | 200 OK [http://152.46.16.159/]
+
+
+Processing AuthController#login (for 24.136.140.59 at 2012-12-08 21:57:39) [POST]
+  Parameters: {"commit"=>"Login", "action"=>"login", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"auth", "login"=>{"name"=>"admin", "password"=>"[FILTERED]"}}
+(Role still current)
+Action: authorised
+Authorised? true
+User admin successfully logged in
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/tree_display/drill
+Completed in 172ms (DB: 47) | 302 Found [http://152.46.16.159/auth/login]
+
+
+Processing TreeDisplayController#drill (for 24.136.140.59 at 2012-12-08 21:57:40) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 266ms (DB: 16) | 302 Found [http://152.46.16.159/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 21:57:40) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 23172ms (View: 21469, DB: 1578) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 21:58:54) [GET]
+  Parameters: {"name"=>["manage", "users"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/users/list
+Completed in 125ms (DB: 31) | 302 Found [http://152.46.16.159/menu/manage/users]
+
+
+Processing UsersController#list (for 24.136.140.59 at 2012-12-08 21:58:54) [GET]
+  Parameters: {"action"=>"list", "controller"=>"users"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+a
+Rendering template within layouts/application
+Rendering users/list
+Completed in 891ms (View: 156, DB: 141) | 200 OK [http://152.46.16.159/users/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 21:59:38) [GET]
+  Parameters: {"name"=>["impersonate"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/impersonate/start
+Completed in 141ms (DB: 0) | 302 Found [http://152.46.16.159/menu/impersonate]
+
+
+Processing ImpersonateController#start (for 24.136.140.59 at 2012-12-08 21:59:39) [GET]
+  Parameters: {"action"=>"start", "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering impersonate/start
+Completed in 172ms (View: 47, DB: 31) | 200 OK [http://152.46.16.159/impersonate/start]
+
+
+Processing ImpersonateController#auto_complete_for_user_name (for 24.136.140.59 at 2012-12-08 21:59:42) [POST]
+  Parameters: {"action"=>"auto_complete_for_user_name", "controller"=>"impersonate", "user"=>{"name"=>"tyrel@altenwerth.info"}, "_"=>""}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant ActionController::InvalidToken):
+  rake (0.9.2.2) lib/rake/ext/module.rb:36:in `const_missing'
+  config/initializers/request_forgery_protection_mod.rb:4:in `handle_unverified_request'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 21:59:43) [POST]
+  Parameters: {"action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"impersonate", "user"=>{"name"=>"tyrel@altenwerth.info"}}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/impersonate/start
+Completed in 141ms (DB: 47) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing ImpersonateController#start (for 24.136.140.59 at 2012-12-08 21:59:43) [GET]
+  Parameters: {"action"=>"start", "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering impersonate/start
+Completed in 156ms (View: 31, DB: 47) | 200 OK [http://152.46.16.159/impersonate/start]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 21:59:48) [GET]
+  Parameters: {"name"=>["manage", "users"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/users/list
+Completed in 156ms (DB: 31) | 302 Found [http://152.46.16.159/menu/manage/users]
+
+
+Processing UsersController#list (for 24.136.140.59 at 2012-12-08 21:59:49) [GET]
+  Parameters: {"action"=>"list", "controller"=>"users"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+a
+Rendering template within layouts/application
+Rendering users/list
+Completed in 703ms (View: 78, DB: 125) | 200 OK [http://152.46.16.159/users/list]
+
+
+Processing UsersController#list (for 24.136.140.59 at 2012-12-08 22:00:23) [GET]
+  Parameters: {"action"=>"list", "controller"=>"users", "letter"=>"n"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+n
+Rendering template within layouts/application
+Rendering users/list
+Completed in 578ms (View: 94, DB: 156) | 200 OK [http://152.46.16.159/users/list?letter=n]
+
+
+Processing UsersController#auto_complete_for_user_name (for 24.136.140.59 at 2012-12-08 22:00:32) [POST]
+  Parameters: {"action"=>"auto_complete_for_user_name", "controller"=>"users", "user"=>{"name"=>"ni"}, "_"=>""}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant ActionController::InvalidToken):
+  rake (0.9.2.2) lib/rake/ext/module.rb:36:in `const_missing'
+  config/initializers/request_forgery_protection_mod.rb:4:in `handle_unverified_request'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing UsersController#show_selection (for 24.136.140.59 at 2012-12-08 22:00:34) [POST]
+  Parameters: {"action"=>"show_selection", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"users", "user"=>{"name"=>"nicolas"}}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/users/list
+Completed in 297ms (DB: 16) | 302 Found [http://152.46.16.159/users/show_selection]
+
+
+Processing UsersController#list (for 24.136.140.59 at 2012-12-08 22:00:34) [GET]
+  Parameters: {"action"=>"list", "controller"=>"users"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+a
+Rendering template within layouts/application
+Rendering users/list
+Completed in 594ms (View: 94, DB: 125) | 200 OK [http://152.46.16.159/users/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:00:49) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 125ms (DB: 31) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-08 22:00:49) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 188ms (DB: 62) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:00:50) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 7391ms (View: 6203, DB: 1031) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing AssignmentController#edit (for 24.136.140.59 at 2012-12-08 22:01:11) [GET]
+  Parameters: {"action"=>"edit", "id"=>"320", "controller"=>"assignment"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assignment/edit
+Completed in 1172ms (View: 406, DB: 125) | 200 OK [http://152.46.16.159/assignment/edit/320]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:01:20) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 6297ms (View: 5109, DB: 1000) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing TeamController#list (for 24.136.140.59 at 2012-12-08 22:01:37) [GET]
+  Parameters: {"action"=>"list", "id"=>"429", "type"=>"Assignment", "controller"=>"team"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering team/list
+Completed in 344ms (View: 125, DB: 94) | 200 OK [http://152.46.16.159/team/list/429?type=Assignment]
+
+
+Processing TeamController#new (for 24.136.140.59 at 2012-12-08 22:01:43) [GET]
+  Parameters: {"action"=>"new", "id"=>"429", "controller"=>"team"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering team/new
+Completed in 281ms (View: 78, DB: 0) | 200 OK [http://152.46.16.159/team/new/429]
+
+
+Processing TeamController#list (for 24.136.140.59 at 2012-12-08 22:01:51) [GET]
+  Parameters: {"action"=>"list", "id"=>"429", "controller"=>"team"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering team/list
+Completed in 453ms (View: 94, DB: 94) | 200 OK [http://152.46.16.159/team/list/429]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:01:57) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 141ms (DB: 31) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-08 22:01:58) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 188ms (DB: 62) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:01:58) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 6719ms (View: 5453, DB: 1094) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing AssignmentController#edit (for 24.136.140.59 at 2012-12-08 22:02:13) [GET]
+  Parameters: {"action"=>"edit", "id"=>"320", "controller"=>"assignment"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assignment/edit
+Completed in 734ms (View: 281, DB: 109) | 200 OK [http://152.46.16.159/assignment/edit/320]
+
+
+Processing ParticipantsController#list (for 24.136.140.59 at 2012-12-08 22:02:29) [GET]
+  Parameters: {"model"=>"Assignment", "action"=>"list", "id"=>"320", "controller"=>"participants"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering participants/list
+Completed in 844ms (View: 234, DB: 156) | 200 OK [http://152.46.16.159/participants/list/320?model=Assignment]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:02:39) [GET]
+  Parameters: {"name"=>["impersonate"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/impersonate/start
+Completed in 297ms (DB: 31) | 302 Found [http://152.46.16.159/menu/impersonate]
+
+
+Processing ImpersonateController#start (for 24.136.140.59 at 2012-12-08 22:02:39) [GET]
+  Parameters: {"action"=>"start", "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering impersonate/start
+Completed in 172ms (View: 31, DB: 31) | 200 OK [http://152.46.16.159/impersonate/start]
+
+
+Processing ImpersonateController#auto_complete_for_user_name (for 24.136.140.59 at 2012-12-08 22:02:43) [POST]
+  Parameters: {"action"=>"auto_complete_for_user_name", "controller"=>"impersonate", "user"=>{"name"=>"viola@ziemann.info"}, "_"=>""}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant ActionController::InvalidToken):
+  rake (0.9.2.2) lib/rake/ext/module.rb:36:in `const_missing'
+  config/initializers/request_forgery_protection_mod.rb:4:in `handle_unverified_request'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 22:02:44) [POST]
+  Parameters: {"action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"impersonate", "user"=>{"name"=>"viola@ziemann.info"}}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/impersonate/start
+Completed in 141ms (DB: 47) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing ImpersonateController#start (for 24.136.140.59 at 2012-12-08 22:02:44) [GET]
+  Parameters: {"action"=>"start", "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering impersonate/start
+Completed in 312ms (View: 172, DB: 16) | 200 OK [http://152.46.16.159/impersonate/start]
+
+
+Processing ImpersonateController#auto_complete_for_user_name (for 24.136.140.59 at 2012-12-08 22:02:51) [POST]
+  Parameters: {"action"=>"auto_complete_for_user_name", "controller"=>"impersonate", "user"=>{"name"=>"nicolas"}, "_"=>""}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant ActionController::InvalidToken):
+  rake (0.9.2.2) lib/rake/ext/module.rb:36:in `const_missing'
+  config/initializers/request_forgery_protection_mod.rb:4:in `handle_unverified_request'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ImpersonateController#auto_complete_for_user_name (for 24.136.140.59 at 2012-12-08 22:02:54) [POST]
+  Parameters: {"action"=>"auto_complete_for_user_name", "controller"=>"impersonate", "user"=>{"name"=>"nicolas"}, "_"=>""}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant ActionController::InvalidToken):
+  rake (0.9.2.2) lib/rake/ext/module.rb:36:in `const_missing'
+  config/initializers/request_forgery_protection_mod.rb:4:in `handle_unverified_request'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ImpersonateController#auto_complete_for_user_name (for 24.136.140.59 at 2012-12-08 22:02:55) [POST]
+  Parameters: {"action"=>"auto_complete_for_user_name", "controller"=>"impersonate", "user"=>{"name"=>"niolas"}, "_"=>""}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant ActionController::InvalidToken):
+  rake (0.9.2.2) lib/rake/ext/module.rb:36:in `const_missing'
+  config/initializers/request_forgery_protection_mod.rb:4:in `handle_unverified_request'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 22:02:55) [POST]
+  Parameters: {"action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"impersonate", "user"=>{"name"=>"nikolas"}}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/student_task/list
+Completed in 203ms (DB: 47) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing StudentTaskController#list (for 24.136.140.59 at 2012-12-08 22:02:56) [GET]
+  Parameters: {"action"=>"list", "controller"=>"student_task"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering student_task/list
+Completed in 578ms (View: 62, DB: 47) | 200 OK [http://152.46.16.159/student_task/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:03:08) [GET]
+  Parameters: {"name"=>["student_task"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/student_task/list
+Completed in 125ms (DB: 31) | 302 Found [http://152.46.16.159/menu/student_task]
+
+
+Processing StudentTaskController#list (for 24.136.140.59 at 2012-12-08 22:03:09) [GET]
+  Parameters: {"action"=>"list", "controller"=>"student_task"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering student_task/list
+Completed in 422ms (View: 47, DB: 94) | 200 OK [http://152.46.16.159/student_task/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:03:12) [GET]
+  Parameters: {"name"=>["Course Evaluation"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/course_evaluation/list
+Completed in 125ms (DB: 47) | 302 Found [http://152.46.16.159/menu/Course%20Evaluation]
+
+
+Processing CourseEvaluationController#list (for 24.136.140.59 at 2012-12-08 22:03:13) [GET]
+  Parameters: {"action"=>"list", "controller"=>"course_evaluation"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering course_evaluation/list
+Completed in 203ms (View: 47, DB: 62) | 200 OK [http://152.46.16.159/course_evaluation/list]
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 22:03:21) [POST]
+  Parameters: {"commit"=>"Impersonate", "action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "impersonate"=>{"name"=>"admin"}, "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/tree_display/drill
+Completed in 328ms (DB: 31) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing TreeDisplayController#drill (for 24.136.140.59 at 2012-12-08 22:03:22) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 125ms (DB: 31) | 302 Found [http://152.46.16.159/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:03:22) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 27688ms (View: 25734, DB: 1656) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:04:07) [POST]
+  Parameters: {"action"=>"list", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "display"=>{"sortvar"=>"created_at", "sortorder"=>"desc", "check"=>"0"}, "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 3609ms (View: 2766, DB: 438) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:04:11) [POST]
+  Parameters: {"action"=>"list", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "display"=>{"sortvar"=>"created_at", "sortorder"=>"desc", "check"=>"1"}, "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 23406ms (View: 20828, DB: 1500) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 22:04:35) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Authorised? false
+Redirected to http://152.46.16.159:3000/denied
+Filter chain halted as [:goldberg_security_filter] rendered_or_redirected.
+Completed in 188ms (DB: 31) | 302 Found [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing ContentPagesController#view (for 24.136.140.59 at 2012-12-08 22:04:36) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["denied"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 203ms (View: 31, DB: 47) | 200 OK [http://152.46.16.159/denied]
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 22:04:45) [POST]
+  Parameters: {"commit"=>"Revert", "action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "impersonate"=>{"name"=>""}, "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/tree_display/drill
+Completed in 188ms (DB: 62) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing TreeDisplayController#drill (for 24.136.140.59 at 2012-12-08 22:04:45) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 141ms (DB: 31) | 302 Found [http://152.46.16.159/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:04:46) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 24547ms (View: 22859, DB: 1422) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:05:37) [GET]
+  Parameters: {"name"=>["manage", "users"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/users/list
+Completed in 141ms (DB: 47) | 302 Found [http://152.46.16.159/menu/manage/users]
+
+
+Processing UsersController#list (for 24.136.140.59 at 2012-12-08 22:05:38) [GET]
+  Parameters: {"action"=>"list", "controller"=>"users"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+a
+Rendering template within layouts/application
+Rendering users/list
+Completed in 844ms (View: 94, DB: 125) | 200 OK [http://152.46.16.159/users/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:05:50) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 141ms (DB: 16) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-08 22:05:50) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 406ms (DB: 31) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:05:51) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 5109ms (View: 3844, DB: 1031) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing CourseController#view_teaching_assistants (for 24.136.140.59 at 2012-12-08 22:06:19) [GET]
+  Parameters: {"model"=>"Course", "action"=>"view_teaching_assistants", "id"=>"92", "controller"=>"course"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering course/view_teaching_assistants
+Completed in 500ms (View: 62, DB: 62) | 200 OK [http://152.46.16.159/course/view_teaching_assistants/92?model=Course]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:06:30) [GET]
+  Parameters: {"name"=>["impersonate"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/impersonate/start
+Completed in 141ms (DB: 47) | 302 Found [http://152.46.16.159/menu/impersonate]
+
+
+Processing ImpersonateController#start (for 24.136.140.59 at 2012-12-08 22:06:30) [GET]
+  Parameters: {"action"=>"start", "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering impersonate/start
+Completed in 312ms (View: 31, DB: 16) | 200 OK [http://152.46.16.159/impersonate/start]
+
+
+Processing ImpersonateController#auto_complete_for_user_name (for 24.136.140.59 at 2012-12-08 22:06:33) [POST]
+  Parameters: {"action"=>"auto_complete_for_user_name", "controller"=>"impersonate", "user"=>{"name"=>"zander"}, "_"=>""}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant ActionController::InvalidToken):
+  rake (0.9.2.2) lib/rake/ext/module.rb:36:in `const_missing'
+  config/initializers/request_forgery_protection_mod.rb:4:in `handle_unverified_request'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 22:06:34) [POST]
+  Parameters: {"action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"impersonate", "user"=>{"name"=>"zander"}}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/tree_display/drill
+Completed in 203ms (DB: 0) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing TreeDisplayController#drill (for 24.136.140.59 at 2012-12-08 22:06:35) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 141ms (DB: 16) | 302 Found [http://152.46.16.159/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:06:35) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 25234ms (View: 23609, DB: 1344) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:07:13) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 141ms (DB: 16) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-08 22:07:13) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 484ms (DB: 47) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:07:14) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 3719ms (View: 2547, DB: 922) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing CourseController#edit (for 24.136.140.59 at 2012-12-08 22:07:49) [GET]
+  Parameters: {"action"=>"edit", "id"=>"92", "controller"=>"course"}
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering course/edit
+Completed in 234ms (View: 62, DB: 62) | 200 OK [http://152.46.16.159/course/edit/92]
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 22:07:59) [POST]
+  Parameters: {"commit"=>"Revert", "action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "impersonate"=>{"name"=>""}, "controller"=>"impersonate"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/tree_display/drill
+Completed in 344ms (DB: 47) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing TreeDisplayController#drill (for 24.136.140.59 at 2012-12-08 22:07:59) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 125ms (DB: 47) | 302 Found [http://152.46.16.159/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:08:00) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 24016ms (View: 22391, DB: 1500) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 22:08:52) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Authorised? false
+Redirected to http://152.46.16.159:3000/denied
+Filter chain halted as [:goldberg_security_filter] rendered_or_redirected.
+Completed in 172ms (DB: 62) | 302 Found [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing ContentPagesController#view (for 24.136.140.59 at 2012-12-08 22:08:53) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["denied"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 484ms (View: 31, DB: 31) | 200 OK [http://152.46.16.159/denied]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:09:03) [GET]
+  Parameters: {"name"=>["home"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/home
+Completed in 141ms (DB: 47) | 302 Found [http://152.46.16.159/menu/home]
+
+
+Processing ContentPagesController#view (for 24.136.140.59 at 2012-12-08 22:09:03) [GET]
+  Parameters: {"action"=>"view", "page_name"=>["home"], "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Page: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view
+Completed in 203ms (View: 31, DB: 47) | 200 OK [http://152.46.16.159/home]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:09:11) [GET]
+  Parameters: {"name"=>["setup", "controllers"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/site_controllers/list
+Completed in 141ms (DB: 16) | 302 Found [http://152.46.16.159/menu/setup/controllers]
+
+
+Processing SiteControllersController#list (for 24.136.140.59 at 2012-12-08 22:09:11) [GET]
+  Parameters: {"action"=>"list", "controller"=>"site_controllers"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering site_controllers/list
+Completed in 2312ms (View: 469, DB: 78) | 200 OK [http://152.46.16.159/site_controllers/list]
+
+
+Processing SiteControllersController#new_called (for 24.136.140.59 at 2012-12-08 22:09:23) [GET]
+  Parameters: {"action"=>"new_called", "id"=>"assessment360", "controller"=>"site_controllers"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering site_controllers/new
+Completed in 250ms (View: 78, DB: 0) | 200 OK [http://152.46.16.159/site_controllers/new_called/assessment360]
+
+
+Processing SiteControllersController#create (for 24.136.140.59 at 2012-12-08 22:09:34) [POST]
+  Parameters: {"site_controller"=>{"name"=>"assessment360", "permission_id"=>"7", "builtin"=>"1"}, "commit"=>"Create", "action"=>"create", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"site_controllers"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/site_controllers/list
+Completed in 2672ms (DB: 609) | 302 Found [http://152.46.16.159/site_controllers/create]
+
+
+Processing SiteControllersController#list (for 24.136.140.59 at 2012-12-08 22:09:37) [GET]
+  Parameters: {"action"=>"list", "controller"=>"site_controllers"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/admin_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/assessment360_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/assignment_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/assignment_signups_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/content_pages_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/controller_actions_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/course_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/course_evaluation_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/eula_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/export_file_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/grades_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/impersonate_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/import_file_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/institution_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/invitation_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/leaderboard_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/markup_styles_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/menu_items_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/participants_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/participant_choices_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/password_retrieval_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/permissions_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/pg_users_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/popup_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/profile_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/publishing_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/questionnaire_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/questions_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/reports_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/response_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/review_mapping_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/roles_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/roles_permissions_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/sign_up_sheet_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/statistics_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/student_review_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/student_task_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/student_team_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/submitted_content_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/suggestion_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/survey_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/survey_deployment_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/survey_response_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/system_settings_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/teams_users_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/team_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/tree_display_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/waitlists_controller.rb' (already loaded?)
+Rendering template within layouts/application
+Rendering site_controllers/list
+Completed in 938ms (View: 250, DB: 62) | 200 OK [http://152.46.16.159/site_controllers/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:09:46) [GET]
+  Parameters: {"name"=>["impersonate"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/impersonate/start
+Completed in 328ms (DB: 16) | 302 Found [http://152.46.16.159/menu/impersonate]
+
+
+Processing ImpersonateController#start (for 24.136.140.59 at 2012-12-08 22:09:46) [GET]
+  Parameters: {"action"=>"start", "controller"=>"impersonate"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering impersonate/start
+Completed in 172ms (View: 31, DB: 62) | 200 OK [http://152.46.16.159/impersonate/start]
+
+
+Processing ImpersonateController#auto_complete_for_user_name (for 24.136.140.59 at 2012-12-08 22:09:51) [POST]
+  Parameters: {"action"=>"auto_complete_for_user_name", "controller"=>"impersonate", "user"=>{"name"=>"zander"}, "_"=>""}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (uninitialized constant ActionController::InvalidToken):
+  rake (0.9.2.2) lib/rake/ext/module.rb:36:in `const_missing'
+  config/initializers/request_forgery_protection_mod.rb:4:in `handle_unverified_request'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 22:09:52) [POST]
+  Parameters: {"action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "controller"=>"impersonate", "user"=>{"name"=>"zander"}}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/tree_display/drill
+Completed in 203ms (DB: 31) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing TreeDisplayController#drill (for 24.136.140.59 at 2012-12-08 22:09:53) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 312ms (DB: 47) | 302 Found [http://152.46.16.159/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:09:53) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 26375ms (View: 24672, DB: 1562) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing ImpersonateController#impersonate (for 24.136.140.59 at 2012-12-08 22:10:30) [POST]
+  Parameters: {"commit"=>"Impersonate", "action"=>"impersonate", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "impersonate"=>{"name"=>"admin"}, "controller"=>"impersonate"}
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Logging in user as role Credentials
+Redirected to http://152.46.16.159:3000/tree_display/drill
+Completed in 234ms (DB: 47) | 302 Found [http://152.46.16.159/impersonate/impersonate]
+
+
+Processing TreeDisplayController#drill (for 24.136.140.59 at 2012-12-08 22:10:30) [GET]
+  Parameters: {"action"=>"drill", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 156ms (DB: 62) | 302 Found [http://152.46.16.159/tree_display/drill]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:10:31) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 23016ms (View: 20906, DB: 1609) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 22:11:00) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 71141ms (View: 562, DB: 297) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:12:38) [GET]
+  Parameters: {"name"=>["setup", "controllers"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/site_controllers/list
+Completed in 375ms (DB: 31) | 302 Found [http://152.46.16.159/menu/setup/controllers]
+
+
+Processing SiteControllersController#list (for 24.136.140.59 at 2012-12-08 22:12:39) [GET]
+  Parameters: {"action"=>"list", "controller"=>"site_controllers"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/admin_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/assessment360_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/assignment_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/assignment_signups_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/content_pages_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/controller_actions_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/course_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/course_evaluation_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/eula_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/export_file_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/grades_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/impersonate_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/import_file_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/institution_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/invitation_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/leaderboard_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/markup_styles_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/menu_items_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/participants_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/participant_choices_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/password_retrieval_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/permissions_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/pg_users_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/popup_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/profile_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/publishing_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/questionnaire_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/questions_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/reports_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/response_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/review_mapping_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/roles_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/roles_permissions_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/sign_up_sheet_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/statistics_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/student_review_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/student_task_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/student_team_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/submitted_content_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/suggestion_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/survey_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/survey_deployment_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/survey_response_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/system_settings_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/teams_users_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/team_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/tree_display_controller.rb' (already loaded?)
+Couldn't load file 'C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/app/controllers/waitlists_controller.rb' (already loaded?)
+Rendering template within layouts/application
+Rendering site_controllers/list
+Completed in 984ms (View: 500, DB: 62) | 200 OK [http://152.46.16.159/site_controllers/list]
+
+
+Processing SiteControllersController#show (for 24.136.140.59 at 2012-12-08 22:12:51) [GET]
+  Parameters: {"action"=>"show", "id"=>"59", "controller"=>"site_controllers"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering site_controllers/show
+Completed in 250ms (View: 62, DB: 78) | 200 OK [http://152.46.16.159/site_controllers/show/59]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:12:59) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 328ms (DB: 47) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-08 22:12:59) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 203ms (DB: 47) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:13:00) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 5266ms (View: 3984, DB: 922) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 22:14:25) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 70922ms (View: 547, DB: 328) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 22:17:18) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 73438ms (View: 547, DB: 328) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 22:19:57) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 72391ms (View: 547, DB: 531) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 22:23:01) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 72938ms (View: 547, DB: 359) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:45:30) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 359ms (DB: 31) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-08 22:45:30) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 203ms (DB: 62) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:45:31) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 4875ms (View: 3672, DB: 1016) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 22:47:16) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 69969ms (View: 547, DB: 297) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 22:58:17) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 172ms (DB: 47) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-08 22:58:17) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 203ms (DB: 62) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 22:58:17) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 4797ms (View: 3484, DB: 953) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 23:02:53) [POST]
+  Parameters: {"action"=>"list", "authenticity_token"=>"chNbaYwtA48yyZhCs4biw4TiEjx78pmZO1zLwWINH64=", "display"=>{"sortvar"=>"created_at", "sortorder"=>"desc", "check"=>"1"}, "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 5062ms (View: 3531, DB: 1062) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:03:36) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 70703ms (View: 516, DB: 484) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:09:54) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 72844ms (View: 547, DB: 500) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:11:26) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 73125ms (View: 922, DB: 391) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:16:01) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 71266ms (View: 531, DB: 406) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+DEPRECATION WARNING: Kernel#returning has been deprecated in favor of Object#tap. (called from enable_activerecord at C:/Documents and Settings/mmurali2/Desktop/Expertiza-360-Degree-Assessment-Visualization-master/Expertiza-360-Degree-Assessment-Visualization-master/vendor/plugins/will_paginate/lib/will_paginate.rb:39)
+** [Hoptoad] Notifier 2.4.11 ready to catch errors
+
+
+Processing ContentPagesController#view_default (for 24.136.140.59 at 2012-12-08 23:19:30) [GET]
+  Parameters: {"action"=>"view_default", "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view_default
+Completed in 781ms (View: 234, DB: 16) | 200 OK [http://152.46.16.159/]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-08 23:19:38) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 188ms (DB: 47) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-08 23:19:39) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 344ms (DB: 31) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-08 23:19:39) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 7062ms (View: 5359, DB: 1109) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:19:53) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 83125ms (View: 906, DB: 469) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:22:19) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 85562ms (View: 1484, DB: 438) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:24:08) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 74938ms (View: 484, DB: 344) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:25:48) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 73938ms (View: 500, DB: 406) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:28:17) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 75453ms (View: 688, DB: 422) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:36:04) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 67109ms (View: 500, DB: 609) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:46:59) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+
+NameError (undefined local variable or method `max' for #<Assessment360Controller:0x658f4d0>):
+  app/controllers/assessment360_controller.rb:121:in `one_course_all_assignments'
+  gchartrb (0.8) lib/google_chart/bar_chart.rb:22:in `initialize'
+  app/controllers/assessment360_controller.rb:119:in `new'
+  app/controllers/assessment360_controller.rb:119:in `one_course_all_assignments'
+  app/controllers/assessment360_controller.rb:55:in `each'
+  app/controllers/assessment360_controller.rb:55:in `one_course_all_assignments'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/rack.rb:27:in `call'
+  C:/Ruby187/lib/ruby/gems/1.8/gems/hoptoad_notifier-2.4.11/lib/hoptoad_notifier/user_informer.rb:12:in `call'
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:48:07) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 66547ms (View: 500, DB: 422) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-08 23:50:22) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 70688ms (View: 781, DB: 484) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing ContentPagesController#view_default (for 24.136.140.59 at 2012-12-09 00:52:10) [GET]
+  Parameters: {"action"=>"view_default", "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view_default
+Completed in 422ms (View: 31, DB: 47) | 200 OK [http://152.46.16.159/]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-09 00:52:26) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 156ms (DB: 31) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-09 00:52:27) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 344ms (DB: 47) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-09 00:52:27) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 5484ms (View: 4234, DB: 1016) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-09 00:52:33) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 156ms (DB: 16) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-09 00:52:33) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 203ms (DB: 62) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-09 00:52:34) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 6000ms (View: 4750, DB: 875) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-09 00:52:55) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 68172ms (View: 656, DB: 406) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-09 00:55:00) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 141ms (DB: 31) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-09 00:55:01) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 375ms (DB: 47) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-09 00:55:01) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 6812ms (View: 5469, DB: 1000) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-09 01:00:22) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 67266ms (View: 500, DB: 453) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-09 01:07:59) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 141ms (DB: 16) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-09 01:07:59) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 375ms (DB: 78) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-09 01:08:00) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 6234ms (View: 5094, DB: 906) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing ContentPagesController#view_default (for 24.136.140.59 at 2012-12-09 01:16:26) [GET]
+  Parameters: {"action"=>"view_default", "controller"=>"content_pages"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering content_pages/view_default
+Completed in 453ms (View: 31, DB: 47) | 200 OK [http://152.46.16.159/]
+
+
+Processing MenuItemsController#link (for 24.136.140.59 at 2012-12-09 01:18:08) [GET]
+  Parameters: {"name"=>["manage", "courses"], "action"=>"link", "controller"=>"menu_items"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/goto_courses
+Completed in 141ms (DB: 16) | 302 Found [http://152.46.16.159/menu/manage/courses]
+
+
+Processing TreeDisplayController#goto_courses (for 24.136.140.59 at 2012-12-09 01:18:08) [GET]
+  Parameters: {"action"=>"goto_courses", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Redirected to http://152.46.16.159:3000/tree_display/list
+Completed in 203ms (DB: 62) | 302 Found [http://152.46.16.159/tree_display/goto_courses]
+
+
+Processing TreeDisplayController#list (for 24.136.140.59 at 2012-12-09 01:18:09) [GET]
+  Parameters: {"action"=>"list", "controller"=>"tree_display"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Action: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering tree_display/list
+Completed in 6672ms (View: 5297, DB: 1047) | 200 OK [http://152.46.16.159/tree_display/list]
+
+
+Processing Assessment360Controller#one_course_all_assignments (for 24.136.140.59 at 2012-12-09 01:18:59) [GET]
+  Parameters: {"action"=>"one_course_all_assignments", "controller"=>"assessment360", "course_id"=>"92"}
+(Role still current)
+(Logged-in user)
+Session: time NOT expired
+Controller: authorised
+Authorised? true
+Rendering template within layouts/application
+Rendering assessment360/one_course_all_assignments
+Completed in 67797ms (View: 484, DB: 375) | 200 OK [http://152.46.16.159/assessment360/one_course_all_assignments?course_id=92]
